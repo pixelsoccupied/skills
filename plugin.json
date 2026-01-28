@@ -1,0 +1,6 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "Collection of Claude Code skills",
+  "skills": ["gerrit-review"]
+}
