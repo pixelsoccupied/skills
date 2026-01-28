@@ -26,7 +26,7 @@ All responses prefixed with `)]}'\n` - strip with `tail -n +2`.
 | Get diff | GET | `/changes/{id}/revisions/{rev}/files/{file}/diff` |
 | List files | GET | `/changes/{id}/revisions/{rev}/files` |
 | Check mergeable | GET | `/changes/{id}/revisions/{rev}/mergeable` |
-| Cherry-pick | POST | `/changes/{id}/revisions/{rev}/cherrypick` |
+| Cherry-pick | POST | `/changes/{id}/revisions/{rev}/cherry_pick` |
 
 Use `current` for latest revision: `/changes/123/revisions/current/patch`
 
