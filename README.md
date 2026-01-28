@@ -9,7 +9,7 @@ A collection of Claude Code skills by pixelsoccupied.
 /plugin install gerrit-tools@pixelsoccupied-skills
 ```
 
-Then enable via `/plugins`.
+Restart Claude Code to activate.
 
 ## Available Skills
 
