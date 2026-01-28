@@ -1,0 +1,11 @@
+{
+  "name": "pixelsoccupied-skills",
+  "description": "Collection of Claude Code skills by pixelsoccupied",
+  "plugins": [
+    {
+      "name": "gerrit-tools",
+      "path": ".",
+      "description": "Gerrit code review tools for OpenStack"
+    }
+  ]
+}
