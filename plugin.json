@@ -6,7 +6,5 @@
     "name": "Nahian Pathan",
     "email": "nahian@me.com"
   },
-  "skills": [
-    "gerrit-review"
-  ]
+  "skills": "./gerrit-review"
 }
