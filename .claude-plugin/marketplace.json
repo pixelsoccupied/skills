@@ -10,6 +10,7 @@
       "source": "./",
       "description": "Gerrit code review tools for OpenStack's review.opendev.org",
       "version": "1.0.0",
+      "category": "development",
       "author": {
         "name": "Nahian Pathan"
       }

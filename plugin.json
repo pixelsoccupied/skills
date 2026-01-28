@@ -1,6 +1,12 @@
 {
-  "name": "skills",
+  "name": "gerrit-tools",
+  "description": "Gerrit code review tools for OpenStack's review.opendev.org",
   "version": "1.0.0",
-  "description": "Collection of Claude Code skills",
-  "skills": ["gerrit-review"]
+  "author": {
+    "name": "Nahian Pathan",
+    "email": "nahian@me.com"
+  },
+  "skills": [
+    "gerrit-review"
+  ]
 }
