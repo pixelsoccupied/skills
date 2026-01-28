@@ -1,14 +1,15 @@
 ---
 name: gerrit-review
-description: |
-  Gerrit code review API operations for OpenStack's review.opendev.org.
-  Use when working with Gerrit reviews: fetching comments, getting patches,
-  checking review status, abandoning changes, or using git-review CLI.
-  Triggers: "check gerrit", "review comments", "gerrit API", "git review",
-  "opendev review", "abandon PR", "gerrit patch".
+description: Gerrit code review API operations for OpenStack's review.opendev.org.
 ---
 
 # Gerrit Review Operations
+
+Use when working with Gerrit reviews: fetching comments, getting patches,
+checking review status, abandoning changes, or using git-review CLI.
+
+**Triggers:** "check gerrit", "review comments", "gerrit API", "git review",
+"opendev review", "abandon PR", "gerrit patch"
 
 ## Base URL
 ```
