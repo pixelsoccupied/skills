@@ -1,11 +1,19 @@
 {
   "name": "pixelsoccupied-skills",
-  "description": "Collection of Claude Code skills by pixelsoccupied",
+  "owner": {
+    "name": "Nahian Pathan",
+    "email": "npathan@redhat.com"
+  },
+  "metadata": {
+    "description": "Collection of Claude Code skills",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "gerrit-tools",
-      "path": ".",
-      "description": "Gerrit code review tools for OpenStack"
+      "description": "Gerrit code review tools for OpenStack's review.opendev.org",
+      "source": "./",
+      "skills": ["./gerrit-review"]
     }
   ]
 }
