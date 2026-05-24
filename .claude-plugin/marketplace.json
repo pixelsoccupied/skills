@@ -14,6 +14,16 @@
       "author": {
         "name": "Nahian Pathan"
       }
+    },
+    {
+      "name": "postgres-dont-do-this",
+      "source": "./postgres",
+      "description": "PostgreSQL anti-patterns and common mistakes to avoid",
+      "version": "1.0.0",
+      "category": "database",
+      "author": {
+        "name": "Nahian Pathan"
+      }
     }
   ]
 }

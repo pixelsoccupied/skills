@@ -1,0 +1,10 @@
+{
+  "name": "postgres-dont-do-this",
+  "description": "PostgreSQL anti-patterns and common mistakes to avoid",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nahian Pathan",
+    "email": "nahian@me.com"
+  },
+  "skills": "./postgres-dont-do-this"
+}

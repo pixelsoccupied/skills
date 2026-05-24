@@ -22,3 +22,13 @@ Gerrit code review API operations for OpenStack's review.opendev.org.
 - Search queries and CI status
 
 **Triggers:** "check gerrit", "review comments", "gerrit API", "git review", "opendev review"
+
+### postgres-dont-do-this
+PostgreSQL anti-patterns and common mistakes to avoid when writing SQL, designing schemas, or configuring Postgres.
+
+- Data type pitfalls (timestamp vs timestamptz, char vs text, serial vs identity)
+- SQL construct traps (NOT IN with NULLs, BETWEEN with timestamps)
+- Schema design rules (encoding, naming, authentication)
+- Quick decision table for common substitutions
+
+**Triggers:** writing SQL, creating tables, schema design, Postgres data types, timestamp handling
